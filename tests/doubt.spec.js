@@ -55,7 +55,7 @@ test("sample frames", async({page})=>{
 
 })
 
-test.only("practise_webtable", async({page})=>{
+test("practise_webtable", async({page})=>{
     await page.goto("https://cosmocode.io/automation-practice-webtable/");
     const columns = await page.locator("//table[@id='countries']/tbody/tr[1]/td");
     const rows = await page.locator("//table[@id='countries']/tbody/tr");

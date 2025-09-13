@@ -23,7 +23,7 @@ test("single select checkbox",async({page})=>{
     await page.pause()
 })
 
-test.only("multi select",async({page})=>{
+test("multi select",async({page})=>{
 
     await page.goto("https://testautomationpractice.blogspot.com/")
     const locat=['//input[@id="sunday"]','//input[@id="tuesday"]','//input[@id="friday"]']
