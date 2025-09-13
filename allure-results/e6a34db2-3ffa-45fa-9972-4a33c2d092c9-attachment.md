@@ -1,0 +1,161 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link "Fork me on GitHub":
+      - /url: https://github.com/tourdedave/the-internet
+      - img "Fork me on GitHub" [ref=e5] [cursor=pointer]
+    - generic [ref=e7]:
+      - heading "File Downloader" [level=3] [ref=e8]
+      - link "Aug batch is goes into training.txt" [ref=e9] [cursor=pointer]:
+        - /url: download/Aug batch is goes into training.txt
+      - link "capture3.png" [ref=e10] [cursor=pointer]:
+        - /url: download/capture3.png
+      - link "index.html" [ref=e11] [cursor=pointer]:
+        - /url: download/index.html
+      - link "A_Data.csv" [ref=e12] [cursor=pointer]:
+        - /url: download/A_Data.csv
+      - link "luminoslogo.png" [ref=e13] [cursor=pointer]:
+        - /url: download/luminoslogo.png
+      - link "SREEHARI_CV.pdf" [ref=e14] [cursor=pointer]:
+        - /url: download/SREEHARI_CV.pdf
+      - link "test.jpg" [ref=e15] [cursor=pointer]:
+        - /url: download/test.jpg
+      - link "some-file.txt" [ref=e16] [cursor=pointer]:
+        - /url: download/some-file.txt
+      - link "megadyneBladeHero.jpg" [ref=e17] [cursor=pointer]:
+        - /url: download/megadyneBladeHero.jpg
+      - link "1.HTML (1).pptx" [ref=e18] [cursor=pointer]:
+        - /url: download/1.HTML (1).pptx
+      - link "webdriverIO.png" [ref=e19] [cursor=pointer]:
+        - /url: download/webdriverIO.png
+      - link "WhatsApp Image 2025-09-09 at 15.25.23_85bb0844.jpg" [ref=e20] [cursor=pointer]:
+        - /url: download/WhatsApp Image 2025-09-09 at 15.25.23_85bb0844.jpg
+      - link "FD075684-B842-482D-902D-4820DB42B83E.png" [ref=e21] [cursor=pointer]:
+        - /url: download/FD075684-B842-482D-902D-4820DB42B83E.png
+      - link "sample.pdf" [active] [ref=e22] [cursor=pointer]:
+        - /url: download/sample.pdf
+      - link "example.json" [ref=e23] [cursor=pointer]:
+        - /url: download/example.json
+      - link "clz8l3unw0006jq0c1ll2k1n8.mp4" [ref=e24] [cursor=pointer]:
+        - /url: download/clz8l3unw0006jq0c1ll2k1n8.mp4
+      - link "credentials.csv" [ref=e25] [cursor=pointer]:
+        - /url: download/credentials.csv
+      - link "top right stove.jpeg" [ref=e26] [cursor=pointer]:
+        - /url: download/top right stove.jpeg
+      - link "AugBatch.txt" [ref=e27] [cursor=pointer]:
+        - /url: download/AugBatch.txt
+      - link "sample_media_file.png" [ref=e28] [cursor=pointer]:
+        - /url: download/sample_media_file.png
+      - link "sample_dom.html" [ref=e29] [cursor=pointer]:
+        - /url: download/sample_dom.html
+      - link "blank.docx" [ref=e30] [cursor=pointer]:
+        - /url: download/blank.docx
+      - link "test.txt" [ref=e31] [cursor=pointer]:
+        - /url: download/test.txt
+      - link "Playwright.docx" [ref=e32] [cursor=pointer]:
+        - /url: download/Playwright.docx
+      - link "Interview Questions.pdf" [ref=e33] [cursor=pointer]:
+        - /url: download/Interview Questions.pdf
+      - link "0x0.png" [ref=e34] [cursor=pointer]:
+        - /url: download/0x0.png
+      - link "Screenshot 2025-08-25 at 11.59.53 AM.png" [ref=e35] [cursor=pointer]:
+        - /url: download/Screenshot 2025-08-25 at 11.59.53 AM.png
+      - link "sample3.pdf" [ref=e36] [cursor=pointer]:
+        - /url: download/sample3.pdf
+      - link "testing_firefox.pdf" [ref=e37] [cursor=pointer]:
+        - /url: download/testing_firefox.pdf
+      - link "同城&异地多活架构 探讨&交流.pdf" [ref=e38] [cursor=pointer]:
+        - /url: download/同城&异地多活架构 探讨&交流.pdf
+      - link "Day2_Day3_Handson.docx" [ref=e39] [cursor=pointer]:
+        - /url: download/Day2_Day3_Handson.docx
+      - link "random_data.txt" [ref=e40] [cursor=pointer]:
+        - /url: download/random_data.txt
+      - link "Demo EHRs.txt" [ref=e41] [cursor=pointer]:
+        - /url: download/Demo EHRs.txt
+      - link "screen.png" [ref=e42] [cursor=pointer]:
+        - /url: download/screen.png
+      - link "Lokesh_Resume.docx" [ref=e43] [cursor=pointer]:
+        - /url: download/Lokesh_Resume.docx
+      - link "uploadfile.txt" [ref=e44] [cursor=pointer]:
+        - /url: download/uploadfile.txt
+      - link "7d2c5299e08a3426d5a9d62cfd8d285a1c7cb0d7 Build report.pdf" [ref=e45] [cursor=pointer]:
+        - /url: download/7d2c5299e08a3426d5a9d62cfd8d285a1c7cb0d7 Build report.pdf
+      - link "screenshot.png" [ref=e46] [cursor=pointer]:
+        - /url: download/screenshot.png
+      - link "selenium_test1225415494448695936.txt" [ref=e47] [cursor=pointer]:
+        - /url: download/selenium_test1225415494448695936.txt
+      - link "sampleFile.txt" [ref=e48] [cursor=pointer]:
+        - /url: download/sampleFile.txt
+      - link "image.jpg" [ref=e49] [cursor=pointer]:
+        - /url: download/image.jpg
+      - link "Manual Testing PCMM88.pdf" [ref=e50] [cursor=pointer]:
+        - /url: download/Manual Testing PCMM88.pdf
+      - link "sample-zip-file.zip" [ref=e51] [cursor=pointer]:
+        - /url: download/sample-zip-file.zip
+      - link "Day12_Waits.txt" [ref=e52] [cursor=pointer]:
+        - /url: download/Day12_Waits.txt
+      - link "ppt.txt" [ref=e53] [cursor=pointer]:
+        - /url: download/ppt.txt
+      - link "targetScreenshot (3).png" [ref=e54] [cursor=pointer]:
+        - /url: download/targetScreenshot (3).png
+      - link "Jpeg_with_exif.jpeg" [ref=e55] [cursor=pointer]:
+        - /url: download/Jpeg_with_exif.jpeg
+      - link "SDLC Steps.txt" [ref=e56] [cursor=pointer]:
+        - /url: download/SDLC Steps.txt
+      - link "FileUpload.txt" [ref=e57] [cursor=pointer]:
+        - /url: download/FileUpload.txt
+      - link "gg.jpg" [ref=e58] [cursor=pointer]:
+        - /url: download/gg.jpg
+      - link "newText1.txt" [ref=e59] [cursor=pointer]:
+        - /url: download/newText1.txt
+      - link "scrnsht.png" [ref=e60] [cursor=pointer]:
+        - /url: download/scrnsht.png
+      - link "samplewenpage.html.txt" [ref=e61] [cursor=pointer]:
+        - /url: download/samplewenpage.html.txt
+      - link "jarRepositories.xml" [ref=e62] [cursor=pointer]:
+        - /url: download/jarRepositories.xml
+      - link "puppy.png" [ref=e63] [cursor=pointer]:
+        - /url: download/puppy.png
+      - link "selenium-server-4.35.0.jar" [ref=e64] [cursor=pointer]:
+        - /url: download/selenium-server-4.35.0.jar
+      - link "zero_bytes_file.txt" [ref=e65] [cursor=pointer]:
+        - /url: download/zero_bytes_file.txt
+      - link "sample_image.jpg" [ref=e66] [cursor=pointer]:
+        - /url: download/sample_image.jpg
+      - link "testing_edge.pdf" [ref=e67] [cursor=pointer]:
+        - /url: download/testing_edge.pdf
+      - link "testing.pdf" [ref=e68] [cursor=pointer]:
+        - /url: download/testing.pdf
+      - link "Screenshot 2025-09-08 at 11.12.37 AM.png" [ref=e69] [cursor=pointer]:
+        - /url: download/Screenshot 2025-09-08 at 11.12.37 AM.png
+      - link "LambdaTest.txt" [ref=e70] [cursor=pointer]:
+        - /url: download/LambdaTest.txt
+      - link "2 Basics part2 (2).pptx" [ref=e71] [cursor=pointer]:
+        - /url: download/2 Basics part2 (2).pptx
+      - link "file.json" [ref=e72] [cursor=pointer]:
+        - /url: download/file.json
+      - link "sample.txt" [ref=e73] [cursor=pointer]:
+        - /url: download/sample.txt
+      - link "selenium-server-4.35.0 (2).jar" [ref=e74] [cursor=pointer]:
+        - /url: download/selenium-server-4.35.0 (2).jar
+      - link "Picture1.png" [ref=e75] [cursor=pointer]:
+        - /url: download/Picture1.png
+      - link "RTM.xlsx" [ref=e76] [cursor=pointer]:
+        - /url: download/RTM.xlsx
+      - link "image2.png" [ref=e77] [cursor=pointer]:
+        - /url: download/image2.png
+      - link "Dummy_file.rtf" [ref=e78] [cursor=pointer]:
+        - /url: download/Dummy_file.rtf
+      - link "playwrightTest.png" [ref=e79] [cursor=pointer]:
+        - /url: download/playwrightTest.png
+      - link "flower.jpg" [ref=e80] [cursor=pointer]:
+        - /url: download/flower.jpg
+  - generic [ref=e82]:
+    - separator [ref=e83]
+    - generic [ref=e84]:
+      - text: Powered by
+      - link "Elemental Selenium" [ref=e85] [cursor=pointer]:
+        - /url: http://elementalselenium.com/
+```

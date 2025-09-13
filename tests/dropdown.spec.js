@@ -18,7 +18,7 @@ test("multiselect",async({page})=>{
 
     await page.pause()
 })
-test.only("suggestion dropdown",async({page})=>{
+test("suggestion dropdown",async({page})=>{
     await page.goto('https://www.google.com/')
 
     await page.locator('//textarea[@class="gLFyf"]').fill('india')

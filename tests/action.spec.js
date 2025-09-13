@@ -49,7 +49,7 @@ test("wheel",async({page})=>{
 })
 
 
-test.only("drag and drop",async({page})=>{
+test("drag and drop",async({page})=>{
 
     await page.goto('https://testautomationpractice.blogspot.com/')
 

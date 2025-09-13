@@ -26,7 +26,7 @@ test("confirmation alert",async({page})=>{
     await page.pause()
 })
 
-test.only('prompt alert',async({page})=>{
+test('prompt alert',async({page})=>{
     await page.goto('https://testautomationpractice.blogspot.com/')
     page.on('dialog',dialog=>{
 
