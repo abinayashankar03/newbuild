@@ -2,7 +2,7 @@
   "name": "pw_july",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {"test:playwright": "playwright test"},
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
